@@ -9,7 +9,7 @@ Le projet couvre l'intégralité du cycle de la donnée :
 * **Exploitation des données** (Requêtes complexes, agrégations et statistiques)
 
 ## 📑 Documentation et Rapports
-Le projet est documenté via trois rapports clés pour faciliter la compréhension de la démarche :
+Le projet est documenté via trois rapports clés pour faciliter la compréhension de la démarche ainsi :
 * **[Analyse Technique](./2_dictionnaire/1_document-technique_112025.pdf)** : Détail des types de données, des contraintes et du dictionnaire d'entités.
 * **[Logique et Requêtes SQL](./6_requêtes_SQL/2_Rapport_Logique_et_Requetes_SQL_112025.pdf)** : Rapport détaillé présentant les questions métier, le code SQL associé (prêt à l'emploi) et les captures des résultats.
 * **[Rapport Méthodologique Final](./7_rapport_final/3_Rapport_final_Methodologie_112025.pdf)** : Synthèse globale de la conception à l'analyse finale.
